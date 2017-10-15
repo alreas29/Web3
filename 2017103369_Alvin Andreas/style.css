@@ -1,0 +1,103 @@
+
+body {
+	background: #FFE4C4;
+	font-family: Helvetica, sans-serif; font-size: 12px; line-height: 18px;
+}
+#atas {
+	float: left;
+	margin: 100px auto; 
+	text-align: center;
+	font-size: 18px; 
+	line-height: 24px;
+}
+
+#atas ul {
+	display: none;
+	background: #5F9EA0; 
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+#atas ul li {
+	float: left;
+}
+
+#atas ul li:hover{
+	display: block;
+	background: #008B8B;
+}
+
+#atas ul li:hover a {
+	color: #fff;		
+}
+
+#atas ul li a {
+	display: block;
+	padding: 25px 40px;
+	color: #fff; 
+	text-decoration: none;
+}
+#logo {
+	float: right;
+	margin: 10px;
+}
+.About{
+	clear: both;	
+	color: grey;
+	background:#FFE4C4;
+	font-size: 16px;
+	padding: 5px 50px;
+}
+#Home{
+	clear: both;
+	display: inline-block;
+	margin: 30px 20px;	
+}
+.box {
+	 float: left;
+	 display: inline-block;
+	 margin: 30px 20px;
+}
+.konten {
+	display: inline-block;
+	margin: 0px 80px;
+	width: 200px;
+	float: left;
+}
+	
+#Regist{
+	clear: both;
+	color: grey;
+	font-size: 16px;
+	line-height: 48px;
+	margin-top: 60px;
+	padding: 5px 50px;
+	background:#FFE4C4;
+}
+
+.SO{
+	clear: both;
+	color: grey;
+	font-size: 12px;
+	line-height: 22px;
+	margin-top: 20px;
+	padding: 5px 30px;
+	background:#FFE4C4;
+}
+.How{
+	clear: both;
+	color: grey;
+	font-size: 16px;
+	line-height: 48px;
+	margin-top: 60px;
+	padding: 5px 50px;
+	background:#FFE4C4;
+}
+.Footer {
+	clear: both;
+	float: left;
+	margin: 5px 10px;	
+}
